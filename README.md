@@ -2,8 +2,8 @@
 
 This is for
 
-a. scripts I forgot where I found them
-b. lousy scripts I wrote myself
+1. scripts I forgot where I found them
+1. lousy scripts I wrote myself
 
 # License
 
